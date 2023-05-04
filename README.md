@@ -1,15 +1,9 @@
 # MyBlog App
 
-MyBlog前台台前端项目。
+Blog前台台前端项目。
 
 
-
-以前的课后作业改的，写的很烂，凑合能用。
-
-
-
-后台项目管理：[Github](https://github.com/snwjas/MyBlog) | [Gitee](https://gitee.com/snwjas/my-blog)
-
+后台项目管理：[Github](https://github.com/jyfStart/blog) 
 
 
 ## 快速开始
@@ -31,8 +25,6 @@ npm run dev
 ```shell
 npm run build
 ```
-
-
 
 修改基本应用请求API
 
